@@ -45,9 +45,13 @@ Since I failed to make a QTree, I will show the node structure here.
 
 
 ROOT: 			     Horse Body
+
 			            /        \      \      \     \
+				    
 Child: 		       Human Body, leg1, leg2, leg3, leg4
+
 		                  /       |    \
+				  
 SubChild:	          Head,   arm1,   arm2
 
 

@@ -68,8 +68,14 @@ Troubles:
 2-I used the Intel Graphic Card and the Nvidia Graphic Card to render. I noticed there's some difference. I have put the screenshot in this folder. I wonder if that's my fault or the hardware's fault. 
 
 # Intel Graphic Card: 
+
 ![Screenshot](Intel.png)
+
 ![Screenshot](intel2.png)
+
 # Nvidia Graphic Card:
+
 ![Screenshot](Nvidia.png)
+
 ![Screenshot](Nvidia2.png)
+

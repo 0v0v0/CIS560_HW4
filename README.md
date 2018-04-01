@@ -69,13 +69,13 @@ Troubles:
 
 # Intel Graphic Card: 
 
-![Screenshot](Intel.png)
+ ![Screenshot](Intel.png)
 
-![Screenshot](intel2.png)
+ ![Screenshot](intel2.png)
 
 # Nvidia Graphic Card:
 
-![Screenshot](Nvidia.png)
+ ![Screenshot](Nvidia.png)
 
-![Screenshot](Nvidia2.png)
+ ![Screenshot](Nvidia2.png)
 

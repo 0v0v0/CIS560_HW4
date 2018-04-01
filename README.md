@@ -66,3 +66,10 @@ Troubles:
 1-Where's the messege loop in QT? I can not find it, and it's not comfortable for me, since there's a messege loop in MFC. 
 
 2-I used the Intel Graphic Card and the Nvidia Graphic Card to render. I noticed there's some difference. I have put the screenshot in this folder. I wonder if that's my fault or the hardware's fault. 
+
+# Intel Graphic Card: 
+![Screenshot](Intel.png)
+![Screenshot](intel2.png)
+# Nvidia Graphic Card:
+![Screenshot](Nvidia.png)
+![Screenshot](Nvidia2.png)

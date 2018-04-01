@@ -1,5 +1,5 @@
 # CIS560_HW4
-
+![Screenshot](screen_gif.gif)
 ## ReadMe:
 Q1:(7 pts) In C++, what is a virtual function and how does it relate to object polymorphism? Say I have a class Base and a class Derived that inherits from Base. Both classes implement a non-virtual function called func(). If func() is invoked by dereferencing a pointer to a Base that actuallypoints to an instance of Derived, how does the compiler know which implementation of func() to call?
 
